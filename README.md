@@ -2,7 +2,11 @@
 
 > **Stay ahead of the movie world with Flixx App!** 🍿
 
-Flixx App is a real-time movie and series platform that gives you detailed information on each title. Explore genres, read descriptions, and keep up with your favorite series. Search for any title effortlessly with our dynamic search feature!
+Flixx App is a real-time movie and series platform that provides detailed information on each title. Explore genres, read descriptions, and stay up-to-date with your favorite series. Use the dynamic search functionality to easily find any title!
+
+## 🌐 Demo
+
+Check out the live demo of Flixx App here: [Flixx App Demo](https://flixx-app-1.vercel.app/)
 
 ## ✨ Features
 
@@ -12,6 +16,9 @@ Flixx App is a real-time movie and series platform that gives you detailed infor
 
 ## 🚀 Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Flixx-App.git
+   git clone https://github.com/dagemawinegash/Flixx-App.git
+   ```
+
+🍿 **Enjoy discovering movies and series like never before!**
