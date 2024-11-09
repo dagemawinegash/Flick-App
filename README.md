@@ -14,9 +14,8 @@ Check out the live demo of Flixx App here: [Flixx App Demo](https://flixx-app-1.
 - **📝 Movie and Series Descriptions**: Get in-depth details for each movie or show, including genre, synopsis, and more.
 - **🔍 Search Functionality**: Quickly find movies or series by title with a built-in search feature.
 
-## 🚀 Installation
+## 🚀 Clone the Project
 
-Clone the repository:
    ```bash
    git clone https://github.com/dagemawinegash/Flixx-App.git
    ```
