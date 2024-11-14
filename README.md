@@ -1,12 +1,12 @@
-# 🎬 Flixx App
+# 🎬 Flick App
 
-> **Stay ahead of the movie world with Flixx App!** 🍿
+> **Stay ahead of the movie world with Flick App!** 🍿
 
-Flixx App is a real-time movie and series platform that provides detailed information on each title. Explore genres, read descriptions, and stay up-to-date with your favorite series. Use the dynamic search functionality to easily find any title!
+Flick App is a real-time movie and series platform that provides detailed information on each title. Explore genres, read descriptions, and stay up-to-date with your favorite series. Use the dynamic search functionality to easily find any title!
 
 ## 🌐 Demo
 
-Check out the live demo of Flixx App here: [Flixx App Demo](https://flixx-app-1.vercel.app/)
+Check out the live demo of Flick App here: [Flick App Demo]
 
 ## ✨ Features
 
@@ -17,7 +17,7 @@ Check out the live demo of Flixx App here: [Flixx App Demo](https://flixx-app-1.
 ## 🚀 Clone the Project
 
    ```bash
-   git clone https://github.com/dagemawinegash/Flixx-App.git
+   git clone https://github.com/dagemawinegash/Flick-App.git
    ```
 
 🍿 **Enjoy discovering movies and series like never before!**
