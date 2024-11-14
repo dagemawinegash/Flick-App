@@ -6,7 +6,7 @@ Flick App is a real-time movie and series platform that provides detailed inform
 
 ## 🌐 Demo
 
-Check out the live demo of Flick App here: [Flick App Demo]
+Check out the live demo of Flick App here: [Flick App Demo](https://flick-app-new.vercel.app/)
 
 ## ✨ Features
 
